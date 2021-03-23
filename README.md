@@ -1,4 +1,4 @@
-## Ensemble Model
+# Ensemble Model
 ![Imgur](https://i.imgur.com/L2Jaqm8.png)
 ![The common ensemble architecture.  ](https://www.researchgate.net/profile/Michael-Affenzeller/publication/293194221/figure/fig1/AS:342131643305984@1458581948247/The-common-ensemble-architecture.png)
 # Background
